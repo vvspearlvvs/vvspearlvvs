@@ -1,4 +1,5 @@
-### 💎My life's shining💎
+
+✨ 포트폴리오 ✨ >> https://www.notion.so/Pearl-881051556901495f997503e38ce2cef5
 
 <!--
 **vvspearlvvs/vvspearlvvs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
