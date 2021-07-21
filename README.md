@@ -1,6 +1,6 @@
 
 ✨ 포트폴리오 ✨ >> https://www.notion.so/Pearl-881051556901495f997503e38ce2cef5
-
+⚡ 기술블로그 ⚡ >> https://pearlluck.tistory.com/
 <!--
 **vvspearlvvs/vvspearlvvs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
