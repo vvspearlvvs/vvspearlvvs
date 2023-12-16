@@ -43,10 +43,11 @@
   </div>
   
   <div>
-    
-  ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=vvspearlvvs&show_icons=true&theme=vue-dark)
 
 <!--
+  ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=vvspearlvvs&show_icons=true&theme=vue-dark)
+
+
   [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=pearlluck&theme=vue-dark&postId=786)](https://pearlluck.tistory.com/)
   [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=pearlluck&theme=vue-dark&postId=263)](https://pearlluck.tistory.com/)
 -->
